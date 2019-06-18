@@ -1,6 +1,6 @@
 # Aprendizaje Automático
 
-Prácticas y cuestionarios de teoría de la asignatura Aprendizaje Automático de la UGR
+Prácticas y cuestionarios de teoría de la asignatura Aprendizaje Automático de 3º del Grado en Ing. Informática de la UGR
 
 Curso 2018/2019
 
